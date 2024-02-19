@@ -2,30 +2,35 @@
 Project ที่ลองทำ
 
 
-## API Reference
 
-#### Get all items
+# Project Title
 
-```http
-  GET /api/items
-```
+A brief description of what this project does and who it's for
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
 
-#### Get item
+## FAQ
 
-```http
-  GET /api/items/${id}
-```
+#### Question 1
 
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
+Answer 1
 
-#### add(num1, num2)
+#### Question 2
 
-Takes two numbers and returns the sum.
+Answer 2
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at fake@fake.com
+
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
 
 
