@@ -1,5 +1,5 @@
 # Github for Deverlopers Course
-Project ที่ลองทำ
+ใช้สำหรับทดสอบและเรียนรู้ Code ต่างๆ
 
 
 
